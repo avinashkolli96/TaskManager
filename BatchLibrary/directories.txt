@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2A13-A10E
+
+ Directory of C:\College\SoftwareArch\MidProject\TaskManager\BatchLibrary
+
+03/04/2022  11:02 AM    <DIR>          .
+03/04/2022  11:02 AM    <DIR>          ..
+03/04/2022  11:02 AM               941 BatchLibrary.cpp
+03/04/2022  10:58 AM             7,203 BatchLibrary.vcxproj
+03/04/2022  10:58 AM               985 BatchLibrary.vcxproj.filters
+03/04/2022  10:58 AM               168 BatchLibrary.vcxproj.user
+03/04/2022  10:03 PM                 0 directories.txt
+03/04/2022  11:01 AM               682 sample.txt
+03/04/2022  10:59 AM    <DIR>          x64
+               6 File(s)          9,979 bytes
+               3 Dir(s)  127,664,472,064 bytes free

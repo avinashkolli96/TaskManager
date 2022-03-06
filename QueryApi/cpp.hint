@@ -1,0 +1,2 @@
+#define QUERYAPI_API __declspec(dllexport)
+#define QUERYAPI_API __declspec(dllimport)

@@ -1,0 +1,2 @@
+#define BATCHLIB_API __declspec(dllexport)
+#define BATCHLIB_API __declspec(dllimport)
